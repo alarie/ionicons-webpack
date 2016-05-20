@@ -1,0 +1,29 @@
+{
+  "name": "ionicons-webpack",
+  "version": "0.0.1",
+  "description": "ionicons package for webpack",
+  "main": "index.js",
+  "loader": "index.loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Simon Schmidt",
+    "url": "@alarie"
+  },
+  "keywords": [
+    "ionicons",
+    "webpack"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "css-loader": "~0.17.0",
+    "sass-loader": "~3.2.0",
+    "style-loader": "~0.12.3"
+  },
+  "peerDependencies": {
+    "ionicons": "^2.0.1"
+  },
+  "readme": "",
+  "readmeFile": "README.md"
+}
