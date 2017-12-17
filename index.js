@@ -1,1 +1,1 @@
-require("style!css!sass!./ionicons-styles!./ionicons.config.js");
+require("style-loader!css-loader!sass-loader!./ionicons-styles.loader.js!./ionicons.config.js");
